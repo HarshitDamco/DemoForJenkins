@@ -1,0 +1,8 @@
+C:\Users\user\documents\visual studio 2015\Projects\Checking\CheckingTest\bin\Debug\CheckingTest.dll
+C:\Users\user\documents\visual studio 2015\Projects\Checking\CheckingTest\bin\Debug\CheckingTest.pdb
+C:\Users\user\documents\visual studio 2015\Projects\Checking\CheckingTest\bin\Debug\Checking.exe
+C:\Users\user\documents\visual studio 2015\Projects\Checking\CheckingTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\documents\visual studio 2015\Projects\Checking\CheckingTest\bin\Debug\Checking.pdb
+C:\Users\user\documents\visual studio 2015\Projects\Checking\CheckingTest\obj\Debug\CheckingTest.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2015\Projects\Checking\CheckingTest\obj\Debug\CheckingTest.dll
+C:\Users\user\documents\visual studio 2015\Projects\Checking\CheckingTest\obj\Debug\CheckingTest.pdb
